@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality over-ear headphones with noise cancellation and 20-hour battery life.",
+    "price": 89.99,
+    "categories": ["Electronics", "Audio"],
+    "stock": 50,
+    "image": "https://example.com/images/headphones.jpg"
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "description": "Eco-friendly water bottle with a 1-liter capacity, keeps drinks hot or cold.",
+    "price": 19.99,
+    "categories": ["Home & Kitchen", "Outdoor"],
+    "stock": 150,
+    "image": "https://example.com/images/water-bottle.jpg"
+  },
+  {
+    "name": "4K Ultra HD Smart TV",
+    "description": "55-inch smart TV with 4K resolution, HDR support, and streaming apps.",
+    "price": 499.99,
+    "categories": ["Electronics", "Entertainment"],
+    "stock": 20,
+    "image": "https://example.com/images/tv.jpg"
+  },
+  {
+    "name": "Organic Cotton T-Shirt",
+    "description": "Soft and breathable t-shirt made from 100% organic cotton. Available in multiple colors.",
+    "price": 29.99,
+    "categories": ["Clothing", "Sustainable"],
+    "stock": 200,
+    "image": "https://example.com/images/tshirt.jpg"
+  },
+  {
+    "name": "Electric Standing Desk",
+    "description": "Adjustable height desk with a motorized lift system, perfect for home offices.",
+    "price": 299.99,
+    "categories": ["Furniture", "Office"],
+    "stock": 30,
+    "image": "https://example.com/images/desk.jpg"
+  },
+  {
+    "name": "Smart Home Speaker",
+    "description": "Voice-controlled speaker with smart assistant integration for home automation.",
+    "price": 129.99,
+    "categories": ["Electronics", "Smart Home"],
+    "stock": 80,
+    "image": "https://example.com/images/speaker.jpg"
+  },
+  {
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat with extra thickness for comfort during exercises.",
+    "price": 39.99,
+    "categories": ["Sports & Outdoors", "Fitness"],
+    "stock": 100,
+    "image": "https://example.com/images/yoga-mat.jpg"
+  },
+  {
+    "name": "Noise-Canceling Earbuds",
+    "description": "Compact earbuds with active noise cancelation and a charging case.",
+    "price": 59.99,
+    "categories": ["Electronics", "Audio"],
+    "stock": 75,
+    "image": "https://example.com/images/earbuds.jpg"
+  },
+  {
+    "name": "Ceramic Coffee Mug",
+    "description": "Handmade ceramic mug with a unique design, perfect for coffee or tea.",
+    "price": 14.99,
+    "categories": ["Home & Kitchen", "Drinkware"],
+    "stock": 120,
+    "image": "https://example.com/images/mug.jpg"
+  },
+  {
+    "name": "LED Desk Lamp",
+    "description": "Adjustable LED lamp with touch control and multiple brightness settings.",
+    "price": 24.99,
+    "categories": ["Home & Kitchen", "Lighting"],
+    "stock": 60,
+    "image": "https://example.com/images/lamp.jpg"
+  },
+  {
+    "name": "Bluetooth Smartwatch",
+    "description": "Smartwatch with fitness tracking, notifications, and Bluetooth connectivity.",
+    "price": 199.99,
+    "categories": ["Electronics", "Wearables"],
+    "stock": 40,
+    "image": "https://example.com/images/smartwatch.jpg"
+  },
+  {
+    "name": "Pet Grooming Kit",
+    "description": "Complete grooming kit for pets, including brushes, clippers, and scissors.",
+    "price": 49.99,
+    "categories": ["Pet Supplies", "Grooming"],
+    "stock": 60,
+    "image": "https://example.com/images/grooming-kit.jpg"
+  },
+  {
+    "name": "Outdoor Camping Tent",
+    "description": "Spacious 4-person tent with waterproof and UV-resistant features.",
+    "price": 89.99,
+    "categories": ["Outdoor", "Camping"],
+    "stock": 35,
+    "image": "https://example.com/images/tent.jpg"
+  }
+]
