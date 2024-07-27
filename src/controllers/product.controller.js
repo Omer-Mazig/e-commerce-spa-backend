@@ -1,4 +1,3 @@
-const User = require("../models/user.model");
 const Product = require("../models/Product");
 
 // Get all products
